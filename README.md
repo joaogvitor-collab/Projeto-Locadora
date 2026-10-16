@@ -5,9 +5,9 @@ João Gabriel Vitor Araujo (Função) - Ajudar na estrutura base do código, sej
 
 Gabriel dos Anjos Figueiredo (Função) - Colaborou no código em geral fazendo principalmente a classe aluguel, corrigindo alguns bugs na reta final do código, como por exemplo o usuário poder alugar produtos sem limite.
 
-Maria Emanuele Ribeiro Cardoso (Função) - 
+Maria Emanuele Ribeiro Cardoso (Função) - Colaborou no código de forma a fazer a classe estoque, ajudou nos métodos primários da maioria das classes, foi responsável por acrescentar outros métodos mais aprofundados, foi de grande ajuda na parte do menu na classe app  e foi grande responsável por acrescentar as tecnologias externas.
 
-André Barbosa da Silva (Função) -
+André Barbosa da Silva (Função) - Um dos colaboradores da base do trabalho como um todo, criando maior parte das classes e parte das funções principais, sendo o pioneiro do código e dando assistência e suporte para solidificar o código.
 
 Descrição do Problema:
 Criação de sistema para uma locadora de jogos, que vende jogos, consoles e acessórios, também mostrando o aluguel pago, o estoque dos produtos e as relações com clientes.
@@ -22,13 +22,13 @@ Regras de Negócio:
 
 
 Tecnologias Utilizadas:
-
+As tecnologias utilizadas foram Gson e SQLite.
 
 Instruções para Configuração:
 
 
 Instruções para Execução:
-
+Primeiro é necessário o cadastro do console, do jogo e do acessório, depois é necessário o cadastro do cliente, após isso podendo alugar um item. No final, gerando um relatório para saber qual o cliente mais pagou em seu devido aluguel. É possível também editar o estoque, devolver o item alugado e apresentar o estoque.
 
 Exemplo de Utilização:
 
