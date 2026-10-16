@@ -65,7 +65,7 @@ Instruções para Configuração:
 
 
 Instruções para Execução:
-Primeiro é necessário o cadastro do console, do jogo e do acessório, depois é necessário o cadastro do cliente, após isso podendo alugar um item. No final, gerando um relatório para saber qual o cliente mais pagou em seu devido aluguel. É possível também editar o estoque, devolver o item alugado e apresentar o estoque.
+Primeiro é necessário o cadastro do console, do jogo e do acessório, depois é necessário o cadastro do cliente, após isso podendo alugar um item no final, gerando um relatório para saber qual o cliente mais pagou em seu devido aluguel é possível também editar o estoque, devolver o item alugado e apresentar o estoque.
 
 Exemplo de Utilização:
 Ao iniciar, o programa vai mostrar o menu principal:
