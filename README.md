@@ -61,8 +61,6 @@ As regras do negócio consistem em:
 Tecnologias Utilizadas:
 As tecnologias utilizadas foram Gson e SQLite.
 
-Instruções para Configuração:
-
 
 Instruções para Execução:
 Primeiro é necessário o cadastro do console, do jogo e do acessório, depois é necessário o cadastro do cliente, após isso podendo alugar um item no final, gerando um relatório para saber qual o cliente mais pagou em seu devido aluguel é possível também editar o estoque, devolver o item alugado e apresentar o estoque.
