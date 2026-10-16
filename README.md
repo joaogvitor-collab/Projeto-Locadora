@@ -109,16 +109,25 @@ Valor total: R$ 80,00
 
 5. Ver o relatório (6)
 ===== Relatorio da Mingau do careca games =====
+
 Total de alugueis: 1
+
 Total arrecadado: R$ 80,00
+
 Média por aluguel: R$ 80,00
+
 Maior aluguel: PS5 (Ana) - R$ 80,00
+
 Menor aluguel: PS5 (Ana) - R$ 80,00
+
 Ranking de itens mais alugados:
+
 1º - Console - PS5 (1 alugueis)
+
 Taxa de atraso: 100,0%
+
 Disponibilidade do estoque: 100,0%
-Exemplo de regra em ação
+
 
 Se Ana tentar alugar um quarto console, com o limite configurado em 3 aparece:
 
