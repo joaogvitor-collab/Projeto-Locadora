@@ -36,15 +36,25 @@ Há um total de 8 Classes contando com o App, sendo elas as classes Locadora, Jo
 Regras de Negócio:
 As regras do negócio consistem em:
 1	Cliente cadastrado:	Só é possível alugar para um cliente que já foi cadastrado.
+
 2	Produto indisponível: Não é possível alugar um produto sem unidades em estoque ou que não exista.
+
 3	Limite por aluguel:	Cada cliente pode ficar com no máximo 3 consoles, 5 jogos e 5 acessórios ao mesmo tempo(podendo ser alterado dentro do código), mesmo que haja muitas unidades no estoque.
+
 4	Limite total:	O limite geral de produtos por cliente é a soma dos três limites acima (13 itens).
+
 5	Custo do aluguel:	custo = preço da diária × dias de devolução (prazo).
+
 6	Multa por atraso:	multa = dias de atraso × preço da diária × 50%, a multa só é aplicada se o cliente ficar mais dias do que o prazo.
+
 7	Status automático:	O status do produto muda sozinho conforme a quantidade dele no estoque, disponível é para quando houver unidades e indisponível se zerar o estoque.
+
 8	Estoque automático:	Alugar diminui 1 unidade do estoque, Devolver devolve 1 unidade.
+
 9	Sem nomes duplicados:	Não é possível cadastrar nem renomear um produto com nome já existente no mesmo tipo, nem dois clientes com o mesmo nome, a comparação ignora letras maiúsculas e minúsculas.
+
 10 Produto alugado não pode ser renomeado:	Enquanto houver aluguel ativo de um produto, o nome dele não pode ser alterado.
+
 11	Validação de entradas:	Preço e quantidade não aceitam valores negativos, dias de devolução precisam ser de pelo menos 1, textos não podem ficar vazios e o programa não quebra se for digitada uma letra no lugar de um número, Preços aceitam ponto ou vírgula (19.90 ou 19,90).
 
 
