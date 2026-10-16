@@ -108,7 +108,7 @@ Valor total: R$ 80,00
 (Cálculo da multa: custo de 3 dias × R$ 20 = R$ 60, mais multa de 2 dias de atraso × R$ 20 × 50% = R$ 20, totalizando R$ 80.0
 
 5. Ver o relatório (6)
-===== Relatorio da Mingau do careca games =====
+===== Relatório da Mingau do careca games =====
 
 Total de alugueis: 1
 
@@ -135,4 +135,4 @@ Limite de 3 console(s) por cliente atingido.
 
 
 Utilização de IA:
-A IA utilizada no código foi o Claude para ajudar no entendimento da alguns métodos específicos, para composição de algumas classes e para entendimento das tecnologias externas. Porém, no geral, o código foi criado por nós, e a IA só auxiliou em alguns detalhes.
+A IA utilizada no código foi o Claude para ajudar na implementação principalmente da classe aluguel e dos métodos que limitam o cliente a comprar uma quantidade especifica de itens, o Claude também auxiliou no entendimento de como fazer esses métodos específicos como o de limite de itens.
