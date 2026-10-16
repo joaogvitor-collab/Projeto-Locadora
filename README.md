@@ -2,8 +2,11 @@
 
 Integrantes:
 João Gabriel Vitor Araujo (Função) - Ajudar na estrutura base do código, seja nas classes específicas e no menu, e responsável pelo GitHub, seja o repositório ou a escrita do ReadMe.
+
 Gabriel dos Anjos Figueiredo (Função) - Colaborou no código em geral fazendo principalmente a classe aluguel, corrigindo alguns bugs na reta final do código, como por exemplo o usuário poder alugar produtos sem limite.
+
 Maria Emanuele Ribeiro Cardoso (Função) - 
+
 André Barbosa da Silva (Função) -
 
 Descrição do Problema:
